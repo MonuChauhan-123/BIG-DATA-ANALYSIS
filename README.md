@@ -24,3 +24,24 @@ Combining SQL and DataFrame APIs
 
 PySpark allows seamless integration of SQL queries with DataFrame transformations.Both methods produce the same result but use different approaches.Both methods produce the same result but use different approaches.
 
+## OUTPUTS:-
+Airport_data:-
+![airports data](https://github.com/user-attachments/assets/6b93e326-b2c8-4c27-9039-efce0f924713)
+
+Flights_small_data:-
+![flights_small data](https://github.com/user-attachments/assets/981ede84-2693-4fd0-ad03-b65e16874963)
+
+Plain_data:-
+![Plane Data](https://github.com/user-attachments/assets/205d8325-f0c9-4909-8080-76a695466dfd)
+
+Output of Analysis:-
+![output analysis](https://github.com/user-attachments/assets/b40c9870-8511-4cde-81e2-79f7a788948c)
+
+## Conclusion of the PySpark Project :-
+This PySpark project demonstrates how to efficiently process and analyze large datasets using Apache Spark. By leveraging SparkContext and SparkSession, the project sets up a scalable environment for handling distributed data. The integration of Pandas with PySpark highlights the transition from small-scale data processing to a big data framework, ensuring flexibility in data analysis.
+
+Key operations performed in the project include creating DataFrames, registering temporary SQL tables, and executing SQL queries to filter and transform data. The project also showcases reading structured data from CSV files, applying DataFrame transformations (such as filtering, grouping, and sorting), and using SQL-like operations for efficient data manipulation. These techniques help in real-world applications like ETL (Extract, Transform, Load) pipelines, data warehousing, and machine learning preprocessing.
+
+Overall, the project highlights the advantages of PySpark for big data processing by combining the power of distributed computing, SQL-based querying, and scalable transformations. PySpark’s capabilities make it an essential tool for working with large datasets in industries such as finance, healthcare, retail, and artificial intelligence. Future improvements could include machine learning integration using Spark MLlib or real-time data processing with Spark Streaming.
+
+
