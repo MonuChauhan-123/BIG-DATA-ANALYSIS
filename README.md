@@ -25,7 +25,9 @@ Combining SQL and DataFrame APIs
 PySpark allows seamless integration of SQL queries with DataFrame transformations.Both methods produce the same result but use different approaches.Both methods produce the same result but use different approaches.
 
 ## OUTPUTS:-
+
 Airport_data:-
+
 ![airports data](https://github.com/user-attachments/assets/6b93e326-b2c8-4c27-9039-efce0f924713)
 
 Flights_small_data:-
