@@ -35,9 +35,11 @@ Flights_small_data:-
 ![flights_small data](https://github.com/user-attachments/assets/981ede84-2693-4fd0-ad03-b65e16874963)
 
 Plain_data:-
+
 ![Plane Data](https://github.com/user-attachments/assets/205d8325-f0c9-4909-8080-76a695466dfd)
 
 Output of Analysis:-
+
 ![output analysis](https://github.com/user-attachments/assets/b40c9870-8511-4cde-81e2-79f7a788948c)
 
 ## Conclusion of the PySpark Project :-
